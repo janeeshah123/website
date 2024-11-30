@@ -1,0 +1,60 @@
+* {
+     margin: 0;
+      padding: 0;
+}
+.parent {
+      background-color: gainsboro;
+      height: 945px;
+      display: flex;
+      position: relative;
+}
+.div-1{
+      background-color: rgba(184, 135, 11, 0.801);
+      height: 05vh;
+       width: 250px;
+       margin-left: 50px;
+       font-size: 30px;
+       margin-top: 80px;
+       border-radius: 5px 10px 34px 2px;
+}
+ .box{
+      background-color: rgba(255, 255, 255, 0.76);
+      height: 100px;
+       width: 400px;
+       border-radius: 5px; 
+       margin-top: 130px;
+       position: absolute;
+       left: 2%;
+       border-radius: 10px;
+ }
+.div-2 {
+      display: flex;
+}
+ .di{
+     font-size: 30px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      margin-left: 20px;
+      margin-top: 10px;
+ }
+ .di1 {
+     font-size: 25px;
+     margin-left: 20px;
+ }
+.div-3 {
+      background-color: rgba(245, 245, 245, 0.699);
+      height: 290px;
+       width: 400px;
+       margin-top: 230px;
+       position: absolute;
+       left: 2%; 
+       border-radius: 10px;
+}
+.di2 i{
+     margin-left: 19px;
+     font-size: 20px;
+}
+.di2 h5{
+     font-size: 24px;
+     color: white;
+      
+}
